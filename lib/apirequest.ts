@@ -28,7 +28,7 @@ function logError(err) {
 }
 
 function createCallback(callback) {
-  return typeof callback === 'function' ? callback : logError;
+  return typeof callback === 'function' ? callback : undefined;
 }
 
 function getMissingParams(params, required) {
