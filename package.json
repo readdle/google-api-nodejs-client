@@ -57,6 +57,7 @@
   ],
   "version": "23.0.0",
   "scripts": {
+    "postinstall": "npm run build",
     "posttest": "npm run lint",
     "test": "npm run cover",
     "doc": "jsdoc -c jsdoc-conf.json",
