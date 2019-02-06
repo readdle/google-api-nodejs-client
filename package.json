@@ -28,7 +28,7 @@
     "url": "https://github.com/readdle/google-api-nodejs-client.git",
     "type": "git"
   },
-  "name": "googleapis",
+  "name": "@readdle/googleapis",
   "contributors": [
     {
       "email": "jbd@google.com",
