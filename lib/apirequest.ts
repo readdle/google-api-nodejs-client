@@ -11,7 +11,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import {DefaultTransporter} from 'google-auth-library/lib/transporters';
+import {DefaultTransporter} from '@readdle/google-auth-library/lib/transporters';
 import * as stream from 'stream';
 import * as parseString from 'string-template';
 

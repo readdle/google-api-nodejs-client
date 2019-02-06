@@ -13,7 +13,7 @@
 
 import * as async from 'async';
 import * as fs from 'fs';
-import {DefaultTransporter} from 'google-auth-library/lib/transporters';
+import {DefaultTransporter} from '@readdle/google-auth-library/lib/transporters';
 import * as url from 'url';
 import * as util from 'util';
 

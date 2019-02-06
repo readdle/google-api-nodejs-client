@@ -6,8 +6,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
+    "@readdle/google-auth-library": "^0.13.6",
     "async": "2.6.0",
-    "google-auth-library": "readdle/google-auth-library-nodejs.git#v0.13.4",
     "string-template": "1.0.0"
   },
   "semistandard": {
