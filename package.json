@@ -7,7 +7,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "async": "2.6.0",
-    "google-auth-library": "readdle/google-auth-library-nodejs.git#v0.13.3",
+    "google-auth-library": "readdle/google-auth-library-nodejs.git#v0.13.4",
     "string-template": "1.0.0"
   },
   "semistandard": {
@@ -55,9 +55,8 @@
       "name": "Justin Beckwith"
     }
   ],
-  "version": "23.0.5",
+  "version": "23.0.6",
   "scripts": {
-    "postinstall": "npm run build",
     "posttest": "npm run lint",
     "test": "npm run cover",
     "doc": "jsdoc -c jsdoc-conf.json",
