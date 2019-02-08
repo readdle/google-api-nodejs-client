@@ -55,7 +55,7 @@
       "name": "Justin Beckwith"
     }
   ],
-  "version": "23.0.9",
+  "version": "23.0.10",
   "scripts": {
     "posttest": "npm run lint",
     "test": "npm run cover",
