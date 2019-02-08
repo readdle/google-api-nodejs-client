@@ -26,7 +26,7 @@ const discovery = new Discovery({debug: false, includePrivate: false});
  */
 // Pascal case preventing API breaking change.
 // tslint:disable-next-line
-const GoogleAuth = require('google-auth-library');
+const GoogleAuth = require('@readdle/google-auth-library');
 
 /**
  * GoogleApis constructor.
